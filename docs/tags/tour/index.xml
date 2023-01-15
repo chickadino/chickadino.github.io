@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>tour on Home</title>
+    <link>https://chickadino.github.io/tags/tour/</link>
+    <description>Recent content in tour on Home</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 10 Sep 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://chickadino.github.io/tags/tour/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hanoi city tour by hop-on/hop-off bus</title>
+      <link>https://chickadino.github.io/posts/2022-hanoi-city-tour-by-hopon-hopoff-bus/</link>
+      <pubDate>Sat, 10 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://chickadino.github.io/posts/2022-hanoi-city-tour-by-hopon-hopoff-bus/</guid>
+      <description>The weather was quite good, the bus was very clean. A great experience to see Hanoi from the 2nd floor of the bus.</description>
+    </item>
+    
+  </channel>
+</rss>

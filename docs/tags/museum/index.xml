@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>museum on Home</title>
+    <link>https://chickadino.github.io/tags/museum/</link>
+    <description>Recent content in museum on Home</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 21 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://chickadino.github.io/tags/museum/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A day at railway museum</title>
+      <link>https://chickadino.github.io/posts/2022-a-day-at-railway-museum/</link>
+      <pubDate>Sat, 21 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://chickadino.github.io/posts/2022-a-day-at-railway-museum/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A day at a science museum in Yokohama</title>
+      <link>https://chickadino.github.io/posts/2021-a-day-at-a-science-museum-in-yokohama/</link>
+      <pubDate>Sat, 11 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://chickadino.github.io/posts/2021-a-day-at-a-science-museum-in-yokohama/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A wonderful day at Dinosaur science museum</title>
+      <link>https://chickadino.github.io/posts/2021-a-wonderful-day-at-dinosaur-science-museum/</link>
+      <pubDate>Sun, 29 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://chickadino.github.io/posts/2021-a-wonderful-day-at-dinosaur-science-museum/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

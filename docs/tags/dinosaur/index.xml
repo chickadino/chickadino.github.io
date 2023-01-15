@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>dinosaur on Home</title>
+    <link>https://chickadino.github.io/tags/dinosaur/</link>
+    <description>Recent content in dinosaur on Home</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 06 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://chickadino.github.io/tags/dinosaur/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Excavating dinosaurs fossil</title>
+      <link>https://chickadino.github.io/posts/2022-excavating-dinosaurs-fossil/</link>
+      <pubDate>Sun, 06 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://chickadino.github.io/posts/2022-excavating-dinosaurs-fossil/</guid>
+      <description>This game is quite trendy in Vietnam recently. You have to chisel very carefully and meticulously to get the dinosaur skeleton inside the plaster stone. It was really fun.</description>
+    </item>
+    
+    <item>
+      <title>A wonderful day at Dinosaur science museum</title>
+      <link>https://chickadino.github.io/posts/2021-a-wonderful-day-at-dinosaur-science-museum/</link>
+      <pubDate>Sun, 29 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://chickadino.github.io/posts/2021-a-wonderful-day-at-dinosaur-science-museum/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

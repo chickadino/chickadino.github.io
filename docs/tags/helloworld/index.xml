@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>helloworld on Home</title>
+    <link>https://chickadino.github.io/tags/helloworld/</link>
+    <description>Recent content in helloworld on Home</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 16 Jun 2017 00:00:00 +0000</lastBuildDate><atom:link href="https://chickadino.github.io/tags/helloworld/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello world</title>
+      <link>https://chickadino.github.io/posts/2017-hello-world/</link>
+      <pubDate>Fri, 16 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://chickadino.github.io/posts/2017-hello-world/</guid>
+      <description>Hi,
+I am Min.
+Happy to see you.</description>
+    </item>
+    
+  </channel>
+</rss>

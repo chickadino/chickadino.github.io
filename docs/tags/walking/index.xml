@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>walking on Home</title>
+    <link>https://chickadino.github.io/tags/walking/</link>
+    <description>Recent content in walking on Home</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 16 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://chickadino.github.io/tags/walking/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Walking at Izumi-no-Mori park</title>
+      <link>https://chickadino.github.io/posts/2021-walking-at-izumi-no-mori-park/</link>
+      <pubDate>Sat, 16 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://chickadino.github.io/posts/2021-walking-at-izumi-no-mori-park/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Met a cute cat while taking a walk</title>
+      <link>https://chickadino.github.io/posts/2020-met-a-cat-while-taking-a-walk/</link>
+      <pubDate>Sat, 14 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://chickadino.github.io/posts/2020-met-a-cat-while-taking-a-walk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Night walk in cold weather</title>
+      <link>https://chickadino.github.io/posts/2019-night-walk-in-cold-weather/</link>
+      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://chickadino.github.io/posts/2019-night-walk-in-cold-weather/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

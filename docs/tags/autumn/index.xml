@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>autumn on Home</title>
+    <link>https://chickadino.github.io/tags/autumn/</link>
+    <description>Recent content in autumn on Home</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 12 Dec 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://chickadino.github.io/tags/autumn/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Enjoying the Autumn colors at Tokyo Institute of Technology</title>
+      <link>https://chickadino.github.io/posts/2021-enjoying-the-autumn-colors-at-tokyo-institute-of-technology/</link>
+      <pubDate>Sun, 12 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://chickadino.github.io/posts/2021-enjoying-the-autumn-colors-at-tokyo-institute-of-technology/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Colorful autumn leaves cover around the home</title>
+      <link>https://chickadino.github.io/posts/2021-colorful-automn-leaves-cover-around-the-home/</link>
+      <pubDate>Tue, 23 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://chickadino.github.io/posts/2021-colorful-automn-leaves-cover-around-the-home/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The colors of Fall in Karuizawa</title>
+      <link>https://chickadino.github.io/posts/2020-the-colors-of-fall-in-karuizawa/</link>
+      <pubDate>Thu, 05 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://chickadino.github.io/posts/2020-the-colors-of-fall-in-karuizawa/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

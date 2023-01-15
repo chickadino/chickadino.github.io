@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>train on Home</title>
+    <link>https://chickadino.github.io/tags/train/</link>
+    <description>Recent content in train on Home</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 25 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://chickadino.github.io/tags/train/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Building a Lego train</title>
+      <link>https://chickadino.github.io/posts/2022-building-a-lego-train/</link>
+      <pubDate>Sun, 25 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://chickadino.github.io/posts/2022-building-a-lego-train/</guid>
+      <description>I actually built this train before when I was in Japan. But today I did it again. It still looks very nice.</description>
+    </item>
+    
+    <item>
+      <title>Building up my Lego city</title>
+      <link>https://chickadino.github.io/posts/2022-building-up-my-lego-city/</link>
+      <pubDate>Sun, 05 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://chickadino.github.io/posts/2022-building-up-my-lego-city/</guid>
+      <description>Finally, it is possible to combine everything into a miniature city.</description>
+    </item>
+    
+    <item>
+      <title>Building a Lego monorail</title>
+      <link>https://chickadino.github.io/posts/2022-building-a-lego-monorail/</link>
+      <pubDate>Thu, 05 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://chickadino.github.io/posts/2022-building-a-lego-monorail/</guid>
+      <description>Any child born in Japan loves trains. I am no exception. I love all kinds of train and monorail definitely on the top.</description>
+    </item>
+    
+  </channel>
+</rss>

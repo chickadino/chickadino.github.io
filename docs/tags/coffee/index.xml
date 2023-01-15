@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>coffee on Home</title>
+    <link>https://chickadino.github.io/tags/coffee/</link>
+    <description>Recent content in coffee on Home</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 13 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://chickadino.github.io/tags/coffee/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Yammy yammy panna cotta</title>
+      <link>https://chickadino.github.io/posts/2022-yammy-yammy-pannacotta/</link>
+      <pubDate>Sun, 13 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://chickadino.github.io/posts/2022-yammy-yammy-pannacotta/</guid>
+      <description>My family went for a walk and discovered a pretty little coffee shop on the corner of an alley. Moreover, the Panna Cotta here was very delicious.</description>
+    </item>
+    
+  </channel>
+</rss>

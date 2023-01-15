@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>halloween on Home</title>
+    <link>https://chickadino.github.io/tags/halloween/</link>
+    <description>Recent content in halloween on Home</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 31 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://chickadino.github.io/tags/halloween/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Happy halloween</title>
+      <link>https://chickadino.github.io/posts/2022-happy-halloween/</link>
+      <pubDate>Mon, 31 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://chickadino.github.io/posts/2022-happy-halloween/</guid>
+      <description>My Mama made this pumpkin for me. How nice it is. Love it, love mom.</description>
+    </item>
+    
+  </channel>
+</rss>
